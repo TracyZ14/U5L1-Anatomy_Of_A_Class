@@ -1,4 +1,4 @@
-public class TestPrismRunner
+public class PrismTester
 {
     public static void main(String[] args)
     {

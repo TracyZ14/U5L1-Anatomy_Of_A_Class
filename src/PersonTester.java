@@ -1,4 +1,4 @@
-public class TestPersonRunner
+public class PersonTester
 {
     public static void main(String[] args)
     {
